@@ -39,6 +39,9 @@ li a {
   height:300px;
   align: center
 }
+.item img {
+  width:100%
+}
 .clock{
   position: absolute;
   top: 50%;
@@ -48,4 +51,3 @@ li a {
   font-size: 80px;
   border: 1px solid #ccc;
   padding: 0px 5px 0px 5px;
-
